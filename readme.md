@@ -10,10 +10,10 @@
 
 > 以下算法会根据实际作业效果有所改动或删减
 
-1. 决策树
+1. [决策树](https://github.com/GitVking/DataAnalysis/blob/master/algorithm/%E5%86%B3%E7%AD%96%E6%A0%91.md)
 2. 朴素贝叶斯
 3. KNN
-4. [SVM（点击预览）](https://www.yuque.com/u1782444/ulgh7r/stg6it)
+4. SVM
 5. KNN
 6. K-Means
 7. EM聚类
